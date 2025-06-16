@@ -20,8 +20,8 @@ Predict loan approval to assist banks in making data-driven decisions.
 ✅ Feature Engineering  
 ✅ Model Building  
 ✅ Evaluation  
-✅ Streamlit Web App (Next)  
-✅ Deployment to Streamlit Cloud (Later)
+✅ Streamlit Web App 
+✅ Deployment to Streamlit Cloud 
 
 ## 📊 Dataset
 [Kaggle - Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
