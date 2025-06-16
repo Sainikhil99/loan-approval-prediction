@@ -45,3 +45,8 @@ if st.button("Predict Loan Approval"):
     prediction = model.predict(input_data)
     result = "✅ Loan Approved!" if prediction[0] == 1 else "❌ Loan Rejected."
     st.subheader(result)
+
+
+# ✅ This will work because the file is in the same folder
+with open("loan_model.pkl", "rb") as file:
+    model = pickle.load(file)
